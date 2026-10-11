@@ -1,0 +1,10 @@
+metodo http:
+es un vevo de peticion para que el servidor realice una peticion
+
+GET:obtener un recurso 
+POST:crear un reu
+PUT:
+PATCH:
+DELETE:
+
+
